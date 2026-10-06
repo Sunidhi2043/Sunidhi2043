@@ -97,7 +97,7 @@ Web-based learning platform developed with Flask, SQL, and frontend technologies
 ## 📫 Connect With Me
 
 📧 **Email:** sunidhi2043@gmail.com  
-💼 **LinkedIn:** [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)  
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sunidhi-singh-bb7806222/)  
 🌐 **Portfolio:** [sunidhi-portfolio-1.vercel.app](https://sunidhi-portfolio-1.vercel.app/)  
 💻 **GitHub:** [Sunidhi2043](https://github.com/Sunidhi2043)
 
